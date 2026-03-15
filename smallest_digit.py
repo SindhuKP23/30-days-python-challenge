@@ -7,4 +7,4 @@ while num>0:
     if digit<smallest:
         smallest=digit
     num//=10
-print(f"The largest number is:",smallest)
+print(f"The smallest number is:",smallest)
